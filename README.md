@@ -36,6 +36,12 @@ Executar somente os testes de API:
 npm run test:api
 ```
 
+Abrir o modo interativo do Playwright para executar e inspecionar testes Web e de API:
+
+```bash
+npm run test:ui
+```
+
 Executar os testes Web com o navegador visivel:
 
 ```bash
